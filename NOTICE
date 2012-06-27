@@ -1,0 +1,10 @@
+This software includes the following software:
+
+* ES5-shim (MIT License)
+* Handlebars.js (MIT License)
+* jQuery (MIT License)
+* jQuery Mobile (MIT License)
+* jQuery Waypoints (MIT License)
+* PhoneGap (Apache 2.0 License)
+* Universal JavaScript Date.parse for ISO 8601 (MIT License)
+* Urban Airship
