@@ -3,7 +3,7 @@
 
 This repository contains the Pay It Forward sample application, which uses PhoneGap and Kinvey. The Pay It Forward application is a simplified version of the [#RubyRiot](http://www.kinvey.com/blog/itemlist/tag/Ruby%20Riot) app built by Kinvey in January 2012. The goal of the app is to make it very easy for conference attendees to connect, and to introduce each other to new people.
 
-## Kinvey features in this app
+### Kinvey features in this app
 * push notifications
 * data [persistence](http://docs.kinvey.com/js-developers-guide.html#appdata)
 
